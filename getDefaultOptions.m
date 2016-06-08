@@ -243,6 +243,8 @@ end
 
 OPT_rungeKutta.AdaptiveDerivativeCheck = 'off';
 
+OPT_rungeKutta.IntegrationType = 'rungekutta';
+
 end
 
 
